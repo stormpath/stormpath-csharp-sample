@@ -144,9 +144,9 @@ namespace StormpathSample
             request = new RestRequest(Method.DELETE);
             client.Execute<object>(request, application.href);
             Console.WriteLine("  Application Deleted!");
+            */
+
             Console.ReadLine();
-            
-             */
 
         }
 
