@@ -146,6 +146,8 @@ namespace StormpathSample
             Console.WriteLine("  Application Deleted!");
             */
 
+            Console.WriteLine("");
+            Console.WriteLine("Press Enter to exit...");
             Console.ReadLine();
 
         }
